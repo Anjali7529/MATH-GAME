@@ -1,0 +1,20 @@
+🧮 Math Game
+Math Game is an interactive browser-based game designed to sharpen your arithmetic skills while having fun!
+Players are presented with randomly generated math problems and must solve them within a given time. As you answer correctly, your score increases — making it a fast-paced challenge that tests your speed, accuracy, and focus.
+🎯 Features
+•	Randomized Questions — Each round generates new math problems for endless replayability.
+•	Multiple Operations — Addition, subtraction, multiplication, and division challenges.
+•	Score Tracking — See your score update in real-time.
+•	Countdown Timer — Beat the clock before time runs out.
+•	Responsive Design — Play on desktop, tablet, or mobile.
+🛠️ Tech Stack
+•	HTML5 — Game structure and layout.
+•	CSS3 — Styling and responsive design.
+•	JavaScript (Vanilla) — Game logic, question generation, and score handling.
+🚀 How to Play
+1.	Start the game by pressing the Start button.
+2.	Solve the math problem displayed on the screen.
+3.	Enter your answer and submit before the timer reaches zero.
+4.	Each correct answer earns points — try to score as high as possible!
+5.	Challenge yourself to beat your own high score.
+
